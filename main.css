@@ -1,0 +1,31 @@
+body {
+  height: 92vh;
+  width: 100vw;
+}
+
+main {
+  margin: 0px;
+}
+
+.sep1 {
+  width: 350px;
+  padding-left: 20px;
+  text-align: center;
+}
+
+.logoimg {
+  margin-top: 20px;
+  width: 380px;
+  height: 300px;
+}
+
+.logs {
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+
+video {
+  width: 390px;
+  height: 300px;
+}/*# sourceMappingURL=main.css.map */
